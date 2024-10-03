@@ -12,7 +12,7 @@ using TrackMaster.Models;
 namespace TrackMaster.Migrations
 {
     [DbContext(typeof(TrackerContext))]
-    [Migration("20241002182509_Time")]
+    [Migration("20241003035700_Time")]
     partial class Time
     {
         /// <inheritdoc />
